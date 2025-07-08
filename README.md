@@ -40,6 +40,13 @@ Amplia experiencia en entornos Scrum, Kanban y Scrumban, con foco en:
 
 ## 🧠 Formación Complementaria
 
+🎓 **Especialización de Desarrollo Web**  
+Conocimientos sólidos en:
+- Calidad de Software
+- Aplicaciones Web
+- Inteligencia Artificial  
+Esta formación me permite comprender a fondo desarrollo y mejores prácticas.
+
 🎓 **Tecnólogo en Redes y Seguridad Informática**  
 Conocimientos sólidos en:
 - Infraestructura de TI
